@@ -3,4 +3,4 @@ Disease detection through QRS complex interval in ECG signals. (digital signal p
 
 For details: 
 
-Read this article https://github.com/mohammadzainabbas/ECG-QRS-/blob/master/DSP-Project-Description.pdf
+Read this article https://github.com/harshraj172-ui/DSP/blob/main/DSP-Project-Description.pdf
